@@ -29,6 +29,7 @@ LaTeX， 是一种基于TEX的排版系统，由美国电脑学家莱斯利·兰
 > 基于 macOS 系统，其它系统请自行寻找编辑器，配置环境
 
 编辑器：[Texpad](https://www.texpad.com/)
+
 Tex发行版：[MacTeX-2017](https://www.tug.org/mactex/mactex-download.html)
 
 
